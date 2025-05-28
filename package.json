@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "Jitendra Bakoria",
   "license": "ISC",
-  "description": "",
+  "description": "job-board",
   "dependencies": {
     "@prisma/client": "^6.6.0",
     "bcrypt": "^5.1.1",
